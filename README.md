@@ -1,2 +1,2 @@
 # fake_zsh
-fake zsh
+fake zshnkb.
